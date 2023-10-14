@@ -3,9 +3,9 @@
 Check-list:
 
 - [ ] JavaScript para Iniciantes
-  - Variáveis ✅
-  - Tipos de Dados ✅
-  - Números e Operadores ✅
+  - [Variáveis](variaveis)
+  - [Tipos de Dados](tipos-de-dados)
+  - [Números e Operadores](numeros-e-operadores)
   - Boolean e Condicionais
   - Funções
   - Objetos
